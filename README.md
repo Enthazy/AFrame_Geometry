@@ -1,3 +1,4 @@
 # AFrame Geometry
 
-A quick demo
+This demo uses AFrame
+https://aframe.io/
