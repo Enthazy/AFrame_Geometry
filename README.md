@@ -1,1 +1,3 @@
-# AFrame Goemeatry
+# AFrame Geometry
+
+A quick demo
